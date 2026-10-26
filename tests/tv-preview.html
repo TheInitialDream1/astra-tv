@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<title>ASTRA · 16:9 电视画面预览</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#09111c;color:#b8e8f4;font:13px 'PingFang SC',sans-serif;min-height:100dvh;display:grid;place-items:center;overflow:hidden}header{position:absolute;top:22px;left:24px;right:24px;display:flex;justify-content:space-between;align-items:center;gap:15px}header span{font:10px monospace;letter-spacing:1px;color:#6893a9}a,button{color:#b8e8f4;text-decoration:none;background:#8bdfff0a;border:1px solid #8bdfff35;border-radius:4px;padding:9px 12px;font:11px sans-serif;cursor:pointer}nav{display:flex;gap:8px}#stage{position:relative;outline:1px solid #70d2e83b;box-shadow:0 25px 80px #0008}iframe{position:absolute;top:0;left:0;width:1280px;height:720px;border:0;transform-origin:0 0}footer{position:absolute;bottom:24px;color:#5c8298;font-size:11px;text-align:center;left:20px;right:20px}
+</style>
+<header><div>ASTRA TV · 电视桌面<br><span>1280 × 720 / 16:9</span></div><nav><button id="reset">重回首页</button><a href="/">打开原型</a></nav></header>
+<div id="stage"><iframe id="preview" title="1280 × 720 电视桌面原型" src="/" allow="camera; fullscreen"></iframe></div>
+<footer>首页即三维粒子星云 · 双手展开穿梭 · 点击画面后用方向键、Enter 和 Esc 体验</footer>
+<script>
+const stage=document.querySelector('#stage'),preview=document.querySelector('#preview');
+function fit(){const scale=Math.max(.1,Math.min((innerWidth-36)/1280,(innerHeight-155)/720));stage.style.width=`${1280*scale}px`;stage.style.height=`${720*scale}px`;preview.style.transform=`scale(${scale})`;}
+addEventListener('resize',fit);fit();document.querySelector('#reset').onclick=()=>preview.contentWindow.location.reload();
+</script>
+</html>

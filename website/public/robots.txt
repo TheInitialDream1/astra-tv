@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theinitialdream1.github.io/astra-tv/sitemap.xml

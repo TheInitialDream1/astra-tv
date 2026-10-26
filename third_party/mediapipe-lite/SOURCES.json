@@ -1,0 +1,12 @@
+[
+  {
+    "name": "palm_detection_lite",
+    "source": "https://storage.googleapis.com/mediapipe-assets/palm_detection_lite.tflite",
+    "sha256": "e9a4aaddf90dda56a87235303cf00e4c2d3fb28725f68fd88772997dac905c18"
+  },
+  {
+    "name": "hand_landmark_lite",
+    "source": "https://storage.googleapis.com/mediapipe-assets/hand_landmark_lite.tflite",
+    "sha256": "d7fde8ac11f8ce03f8663775bfc323f4fc9f2a38062b4f4efa142874ef5b2a48"
+  }
+]

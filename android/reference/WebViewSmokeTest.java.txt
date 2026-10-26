@@ -1,0 +1,41 @@
+package com.astra.tvhome;
+
+import android.app.*;
+import android.content.*;
+import android.graphics.Bitmap;
+import android.os.*;
+import android.view.*;
+import android.webkit.WebView;
+import org.json.*;
+import java.io.*;
+import java.util.concurrent.*;
+
+/** SDK instrumentation against an isolated emulator; never contacts the user's television. */
+public class LauncherSmokeTest extends Instrumentation {
+    private MainActivity activity;private WebView web;private final StringBuilder report=new StringBuilder();private int failures;
+    @Override public void onCreate(Bundle arguments){super.onCreate(arguments);start();}
+    String js(String code)throws Exception{CountDownLatch done=new CountDownLatch(1);String[] value={"null"};runOnMainSync(()->web.evaluateJavascript(code,v->{value[0]=v;done.countDown();}));if(!done.await(6,TimeUnit.SECONDS))throw new Exception("JS callback timed out");return value[0];}
+    void check(String name,boolean ok){report.append(ok?"PASS: ":"FAIL: ").append(name).append('\n');if(!ok)failures++;}
+    void key(int code){runOnMainSync(()->{activity.dispatchKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN,code));activity.dispatchKeyEvent(new KeyEvent(KeyEvent.ACTION_UP,code));});}
+    boolean await(String expression)throws Exception{long end=System.currentTimeMillis()+30000;do{if("true".equals(js(expression)))return true;Thread.sleep(150);}while(System.currentTimeMillis()<end);return false;}
+    @Override public void onStart(){
+        try{
+            Intent launch=new Intent(getTargetContext(),MainActivity.class).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);activity=(MainActivity)startActivitySync(launch);
+            runOnMainSync(()->web=(WebView)((ViewGroup)activity.findViewById(android.R.id.content)).getChildAt(0));
+            check("offline local asset origin loads",await("location.origin==='https://appassets.androidplatform.net' && !!document.querySelector('#nav-home')"));
+            int actual=new JSONArray(activity.new NativeBridge().getInstalledApps()).length();check("native PackageManager lists real installed apps",actual>0);report.append("Installed apps: ").append(actual).append('\n');
+            check("one native particle scene compiles and becomes ready",await("document.querySelector('#tv-spatial-frame')?.dataset.ready==='true' && !document.querySelector('#tv-spatial-frame').contentDocument.querySelector('#loading')"));
+            check("native viewport uses television width",js("innerWidth===1280").equals("true"));
+            check("system manager is available in the TV shell",js("!!document.querySelector('#open-device')").equals("true"));
+            check("no fictional film cards in Android homepage",js("document.querySelectorAll('.orbit-film[data-action=film]').length===0").equals("true"));
+            CountDownLatch shot=new CountDownLatch(1);Bitmap bitmap=Bitmap.createBitmap(web.getWidth(),web.getHeight(),Bitmap.Config.ARGB_8888);
+            runOnMainSync(()->PixelCopy.request(activity.getWindow(),bitmap,result->{try{if(result==PixelCopy.SUCCESS){File dir=getTargetContext().getExternalFilesDir("qa");dir.mkdirs();try(FileOutputStream out=new FileOutputStream(new File(dir,"android-home.png"))){bitmap.compress(Bitmap.CompressFormat.PNG,100,out);}}else failures++;}catch(Exception e){failures++;}finally{shot.countDown();}},new Handler(Looper.getMainLooper())));
+            check("native rendered frame captured",shot.await(6,TimeUnit.SECONDS));bitmap.recycle();
+            key(KeyEvent.KEYCODE_DPAD_DOWN);check("remote Down enters the first real application",await("document.querySelector('#tv-spatial-frame').contentDocument.querySelector('#remote-count').textContent.includes('01 OF '+"+actual+")"));
+            if(actual>1){key(KeyEvent.KEYCODE_DPAD_RIGHT);check("native remote Right selects the next application",await("document.querySelector('#tv-spatial-frame').contentDocument.querySelector('#remote-count').textContent.includes('02 OF '+"+actual+")"));}
+            JSONObject cleanup=new JSONObject(activity.new NativeBridge().getCleanupReport());check("cleanup report is scan-only and never executes disables",cleanup.getString("mode").equals("adb-review-required"));
+            check("app rejects non-local origins",!MainActivity.local(android.net.Uri.parse("https://example.com/")));
+        }catch(Exception e){check(e.toString(),false);}
+        Bundle result=new Bundle();result.putString("stream",report.toString());finish(failures==0?Activity.RESULT_OK:Activity.RESULT_CANCELED,result);
+    }
+}

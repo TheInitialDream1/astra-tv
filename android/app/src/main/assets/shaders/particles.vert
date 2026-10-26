@@ -1,0 +1,4 @@
+#version 300 es
+precision highp float;
+layout(location=0) in vec4 aSeed;uniform mat4 uVP;uniform vec3 uEye,uFocus;uniform float uTime,uNear,uPulse,uRatio,uSelected;out vec3 vColor;out float vAlpha;
+void main(){vec3 p=aSeed.xyz;p+=vec3(sin(p.y*.31+uTime*.12),cos(p.z*.28-uTime*.1),sin(p.x*.3+uTime*.09))*.65;float dist=length(p-uFocus),wave=exp(-pow((dist-uPulse*10.)*1.2,2.))*exp(-uPulse*.8);p+=normalize(p-uFocus+vec3(.001))*wave*.5;vec4 clip=uVP*vec4(p,1.);gl_Position=clip;float seed=fract(aSeed.w);float sparkle=pow(.5+.5*sin(aSeed.w*83.+uTime*.7),28.);gl_PointSize=clamp((.32+pow(seed,12.)*1.25)*uRatio*55./max(2.,clip.w),.8,7.);float density=(1.-smoothstep(.45,1.04,length(p/vec3(18.,10.,11.))));vColor=mix(vec3(.32,.3,.68),vec3(.3,.8,1.),seed)*(1.+sparkle*.4+wave*1.5);vAlpha=density*(.16+pow(seed,6.)*.4)*smoothstep(.7,2.,length(p-uEye));}

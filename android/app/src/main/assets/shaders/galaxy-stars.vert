@@ -1,0 +1,5 @@
+#version 300 es
+precision highp float;
+layout(location=0) in vec4 aSeed;uniform mat4 uVP,uModel;uniform float uRatio,uTime,uPhase,uIntensity,uKind,uApplication;uniform vec3 uTint;out vec3 vColor;out float vAlpha;
+void main(){int kind=int(uKind+.5);float r=aSeed.x,spin=uTime*(.012+fract(uPhase*.73)*.012)/(.35+r*.85),a=aSeed.y-log(max(.08,r))*3.1+spin,z=aSeed.z*(.009+exp(-r*9.)*.035)+sin(uTime*.12+aSeed.y*3.+r*9.)*.004;if(kind==1)a=mod(floor(aSeed.w*71.),3.)*2.0944+sin(aSeed.y)*.28-log(max(.08,r))*3.1+spin;if(kind>=2){a=fract(sin(aSeed.w*91.+aSeed.y*17.)*4371.)*6.283+spin;if(kind==2||kind==5){r*=r;z=aSeed.z*sqrt(max(0.,1.-r*r))*.19;}}
+vec3 p=vec3(cos(a)*r*.49,sin(a)*r*.49,z);vec4 clip=uVP*uModel*vec4(p,1.);gl_Position=clip;gl_PointSize=clamp((.28+pow(aSeed.w,5.)*.75)*uRatio*28./max(2.,clip.w),.6,3.2);vec3 cold=kind==1?vec3(.83,.53,.94):kind==2?vec3(1.,.79,.52):kind==3?vec3(.34,.91,.84):mix(vec3(.23,.43,1.),vec3(.59,.27,1.),aSeed.w);cold=mix(cold,uTint,uApplication*.9);vColor=mix(mix(vec3(1.,.84,.66),uTint,uApplication*.6),cold,smoothstep(.05,.38,r));vAlpha=(.07+pow(aSeed.w,3.)*.42)*uIntensity;}

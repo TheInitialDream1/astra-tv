@@ -1,0 +1,13 @@
+/* The television shell supplies system chrome; this frame is the live spatial surface. */
+.tv-embedded .topbar,.tv-embedded .far-copy,.tv-embedded .near-heading,.tv-embedded .bottom-bar,.tv-embedded .depth-gauge{display:none!important}
+.tv-embedded .vignette{opacity:.25}
+.tv-embedded #remote-panel{left:5.1vw;bottom:27vh;max-width:20vw;width:235px;background:linear-gradient(90deg,#03101db8,#03121d00);border-color:#87e9fc50;backdrop-filter:blur(4px)}
+.tv-embedded .camera-preview{right:5.1vw;top:23vh;width:min(210px,18vw)}
+.tv-embedded #toast{bottom:29vh;font-size:12px;padding:9px 17px}
+.tv-embedded #scanner b{background:#020910aa}
+.tv-embedded .node-label{background:#02121bc9;border-color:#9edfff29}
+.tv-embedded #loading{background:transparent}
+.tv-embedded #loading>span,.tv-embedded #loading>small{display:none}
+@media(min-width:1700px){.tv-embedded #remote-panel{max-width:21vw;width:310px}.tv-embedded .camera-preview{width:290px}.tv-embedded #toast{font-size:16px}.tv-embedded .node-label{font-size:19px}.tv-embedded .node-label small{font-size:13px}}
+@media(max-width:700px){.tv-embedded #remote-panel{left:5vw;bottom:31vh;width:175px;max-width:45vw}.tv-embedded .camera-preview{top:22vh;width:130px;max-width:28vw}.tv-embedded #toast{bottom:31vh}.tv-embedded .node-label{font-size:12px}}
+.native-app-icon{width:100%;height:100%;object-fit:contain;border-radius:18%}

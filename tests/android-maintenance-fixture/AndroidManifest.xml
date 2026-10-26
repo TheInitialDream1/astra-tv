@@ -1,0 +1,1 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.astra.tvhome.fixture"><uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35"/><application android:hasCode="false" android:label="Astra Restore QA Fixture"/></manifest>

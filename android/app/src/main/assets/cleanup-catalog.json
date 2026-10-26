@@ -1,0 +1,1929 @@
+[
+  {
+    "package": "android.autoinstalls.config.google.gtvpai",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "android.autoinstalls.config.soc.amlogic",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "android.autoinstalls.config.xiaomi.amelie",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "android.autoinstalls.config.xiaomi.mibox3",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "android.autoinstalls.config.xioami.dangal",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "android.autoinstalls.config.xioami.mibox3",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "co.sensara.tv.mitv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.aha.mitv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.amazon.amazonvideo.livingroom",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.adservices.api",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.backupconfirm",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.camera2",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.cts.ctsshim",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.cts.priv.ctsshim",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.dreams.basic",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.ext.adservices.api",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.federatedcompute.services",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.gallery3d",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.health.connect.backuprestore",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.ondevicepersonalization.services",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.onetimeinitializer",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.printspooler",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.providers.calendar",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.providers.contacts",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.se",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.settings.intelligence",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.sharedstoragebackup",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.smspush",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.tv.feedbackconsent",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.android.wallpaperbackup",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.dazn",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.ddnational.prasarbharati",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.discoveryplus.mitv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.disney.disneyplus",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.duokan.airkan.tvbox",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.duokan.factorytest",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.duokan.videodaily",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.emotn.browser",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mftr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.eros.mitv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.fancode.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.formulaone.production",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.gitvdemo.video",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.glance.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.apps.mediashell",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.apps.tachyon",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.apps.tv.launcherx",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.backdrop",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.backuptransport",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.feedback",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.katniss",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.leanbacklauncher",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.leanbacklauncher.recommendations",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.marvin.talkback",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.music",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.onetimeinitializer",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.partnersetup",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.play.games",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.speech.pumpkin",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.syncadapters.calendar",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.syncadapters.contacts",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.tungsten.setupwraith",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.tv.bugreportsender",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.tv.remote.service",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.tvlauncher",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.tvrecommendations",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.videos",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.youtube.tvkids",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.google.android.youtube.tvmusic",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.graymatrix.did",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.jio.media.stb.ondemand",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.jio.web.androidtv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mediatek.TimeMeasurementAgent",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mediatek.tv.systemupdater",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mediatek.wwtv.webview",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mipay.wallet.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.ABUpdateStatus",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mosr4/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.alarmcenter",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.cloudcontrol",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.download.service",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.dream",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.gallery",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.milinkservice",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.mivideoplayer",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.overseaservice",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.screensaver",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.shoplugin",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.toolhouse",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.tvhome.atv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.tvhome.michannel",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.tvhome.mitvplus",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.tvhome.oemtab",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.tvlock",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.upgrader",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mitv.videoplayer",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.miui.analytics",
+    "category": "隐私与统计",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.miui.hybrid.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.miui.misightservice",
+    "category": "隐私与统计",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mffu0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.miui.tv.analytics",
+    "category": "隐私与统计",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mstar.android.media.tests",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mstar.android.tv.disclaimercustomization",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mstar.netflixobserver",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.mxtech.videoplayer.television",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.netflix.ninja",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.netflix.tokenmanager",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.newtv.cboxtv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.nousguide.android.rbtv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.sohu.inputmethod.sogou.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.sonyliv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.suntv.sunnxt.mitv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.tcl.browser",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.wbd.hbomax",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.account",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.account.auth",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.aitranslate",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mffu0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.amazon.alexa",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.android.TV.audio",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.android.tvsetup.partnercustomizer",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.eetv.litehome",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.floatingframe",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.gamecenter.sdk.service.mibox",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mi_connect_service",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mibox.lockscreen",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mico.mqtt.service.application.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mimusic2",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.miplay",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.appstore",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.calendar",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.csi",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.debug",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.handbook",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.health",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.healthdiagnosis",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.hyper.screensaver",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.karaoke.service",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.legal.webview",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.light",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.manualhelp",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.mediaexplorer",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.pay",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.payment",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.remotecontroller.service",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.shop",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.smartpanel",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.smartshare",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.tvmanager",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.tvpush.tvpushservice",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.tvvideocall",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.updateservice",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.mitv.upgrade",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.screenrecorder",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.setupwizard",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.smarthome.tv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.statistic",
+    "category": "隐私与统计",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.tv.gallery",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.tvqs",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.tvqs.overseas",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.tvqs.overseas.y24",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.tweather",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.voicecontrol",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.wakeupservice",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomi.wfdsinkhelperservice",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomitv.sonyliv",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xiaomo.tv.milegal",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.xm.webcontent",
+    "category": "广告与推荐",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s-2nd-gen/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt",
+      "examples/xiaomi-mitv-afmu0/debloat.txt",
+      "examples/xiaomi-mitv-afmu1/debloat.txt",
+      "examples/xiaomi-mitv-ansp0/debloat.txt",
+      "examples/xiaomi-mitv-astp0/debloat.txt",
+      "examples/xiaomi-mitv-astp1/debloat.txt",
+      "examples/xiaomi-mitv-astr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr0/debloat.txt",
+      "examples/xiaomi-mitv-axfr1/debloat.txt",
+      "examples/xiaomi-mitv-axso0/debloat.txt",
+      "examples/xiaomi-mitv-axso2/debloat.txt",
+      "examples/xiaomi-mitv-ayfr0/debloat.txt",
+      "examples/xiaomi-mitv-mffu0/debloat.txt",
+      "examples/xiaomi-mitv-mftr0/debloat.txt",
+      "examples/xiaomi-mitv-moeu0/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mssp0/debloat.txt",
+      "examples/xiaomi-mitv-mssp1/debloat.txt",
+      "examples/xiaomi-mitv-mssp2/debloat.txt",
+      "examples/xiaomi-mitv-mssp3-android9/debloat.txt",
+      "examples/xiaomi-mitv-mssp3/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt",
+      "examples/xiaomi-tv-a-pro-2026/debloat.txt"
+    ]
+  },
+  {
+    "package": "com.zee5.xiaomiTV",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso2/debloat.txt"
+    ]
+  },
+  {
+    "package": "fusion.android.tv.demo",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-tv-4a/debloat.txt",
+      "examples/xiaomi-mitv-mooq0/debloat.txt",
+      "examples/xiaomi-mitv-mooq2/debloat.txt",
+      "examples/xiaomi-mitv-moor2/debloat.txt",
+      "examples/xiaomi-mitv-mosr4/debloat.txt",
+      "examples/xiaomi-mitv-mteq0/debloat.txt"
+    ]
+  },
+  {
+    "package": "in.startv.hotstar",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axfr0/debloat.txt"
+    ]
+  },
+  {
+    "package": "mediatek.factorymenu.ui",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-mooq2/debloat.txt"
+    ]
+  },
+  {
+    "package": "mitv.service",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  },
+  {
+    "package": "net.aljazeera.english",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mitv-axso0/debloat.txt"
+    ]
+  },
+  {
+    "package": "tv.alphonso.alphonso_eula",
+    "category": "预装应用",
+    "evidence": "CleanYourTV 相近小米机型社区记录，未验证当前电视固件",
+    "sources": [
+      "examples/xiaomi-mi-box-3/debloat.txt",
+      "examples/xiaomi-mi-box-s/debloat.txt",
+      "examples/xiaomi-mitv-aesp0/debloat.txt"
+    ]
+  }
+]
