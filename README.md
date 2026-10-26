@@ -1,7 +1,7 @@
 <p align="center"><img src="website/public/favicon.svg" width="66" alt="ASTRA 标志"></p>
 <h1 align="center">ASTRA 星穹</h1>
 <p align="center">把客厅，带进宇宙。<br>A native Android TV launcher with a living galaxy.</p>
-<p align="center"><a href="https://theinitialdream1.github.io/astra-tv/">官网</a> · <a href="https://github.com/TheInitialDream1/astra-tv/releases/latest">下载 APK</a> · <a href="android/README.md">安装与恢复</a> · <a href="README.en.md">English</a></p>
+<p align="center"><a href="https://theinitialdream1.github.io/astra-tv/">官网</a> · <a href="https://github.com/TheInitialDream1/astra-tv/releases/tag/v0.4.0">下载 APK</a> · <a href="android/README.md">安装与恢复</a> · <a href="README.en.md">English</a></p>
 <p align="center"><a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-8dceff"></a> <img alt="Android 8.0 or newer" src="https://img.shields.io/badge/Android-8.0%2B-8dceff"> <img alt="Experimental preview" src="https://img.shields.io/badge/status-experimental_preview-d8b27b"></p>
 
 ![ASTRA 原生星云桌面](website/public/media/home.png)
